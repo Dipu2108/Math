@@ -97,3 +97,79 @@ I made it only for students
     </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math Problems and Tricks</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #35424a;
+            color: #ffffff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 3px solid;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .content {
+            padding: 20px;
+            background: #ffffff;
+            margin-top: 20px;
+        }
+        footer {
+            background: #35424a;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Math Problems and Tricks</h1>
+        </div>
+    </header>
+    <div class="container">
+        <section class="content">
+            <h2>Math Problems</h2>
+            <p>Here are some challenging math problems for you to solve:</p>
+            <ol>
+                <li>Find the value of x in the equation: 2x + 5 = 17.</li>
+                <li>If a square has an area of 36 square units, what is the length of each side?</li>
+                <li>What is the sum of the first 10 terms of the arithmetic sequence: 2, 5, 8, 11, ...?</li>
+            </ol>
+        </section>
+
+        <section class="content">
+            <h2>New Math Tricks</h2>
+            <p>Discover some fascinating math tricks to amaze your friends:</p>
+            <ul>
+                <li>The multiplication by 9 trick.</li>
+                <li>The magic of the Fibonacci sequence.</li>
+                <li>Quick mental calculation techniques for addition and subtraction.</li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        <p>© 2024 Math Problems and Tricks</p>
+    </footer>
+</body>
+</html>
